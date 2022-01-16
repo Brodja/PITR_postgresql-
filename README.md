@@ -1,1 +1,4 @@
 # PITR_postgresql-
+
+:wq
+
